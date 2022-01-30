@@ -30,7 +30,7 @@ Thus, there can be a reasonable conclusion that the total rides is conversely pr
 
 In creating the multiple-line graph, the total weekly fares for each city type can be visualized, as shown below:
 
-![graph](/analysis/Pyber_fare_summary.png)
+![graph](/analysis/PyBer_fare_summary.png)
 
 In viewing the graph above, the differences in ride-sharing data among the different city types can be seen:
 
